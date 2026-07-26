@@ -20,20 +20,18 @@
 ### Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,pandas,tensorflow,git,github,vscode" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,oracle,powerbi&theme=dark" alt="tech stack icons" />
 </p>
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-0A0A0A?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **AI-Assisted Coding**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-4A90D9?style=for-the-badge&logoColor=white)
-
-**Trading & Analytics**
-
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![Pine Script](https://img.shields.io/badge/Pine%20Script-1A1A1A?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -44,14 +42,10 @@
 
 ---
 
-### GitHub Stats
+### GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymithran&show_icons=true&theme=radical&count_private=true" alt="Ajay's GitHub stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymithran&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymithran&background=1A0000&border=FFD700&stroke=FFD700&ring=FF0000&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC" alt="GitHub Streak" />
 </p>
 
 ---
