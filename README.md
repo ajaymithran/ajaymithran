@@ -2,61 +2,61 @@
 <h3 align="center">Data Analyst & Algo Trading Enthusiast | Turning Data into Decisions 📊📈</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Analytics+%7C+AI+Tools;Building+Algo+Trading+Strategies;Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Analytics+%7C+AI+Tools;Building+Algo+Trading+Strategies;Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Currently working on algorithmic trading strategies (NAS100 ORB systems) and sharpening my data skills
-- 🌱 Learning AI,ML,Data Science, Data Analytics, and AI-assisted ("vibe") coding
-- 🤖 Exploring AI tools like **Claude**, **Cursor**, and **OpenCode** to build faster and smarter
-- 📈 Interested in the intersection of markets, data, and automation
-- 💬 Ask me about trading strategies, Pine Script, or data analytics
-- ⚡ Fun fact: I trade what I build, and build what I trade
+- Currently building data analytics and ML projects while trading NAS100 algo strategies
+- Learning Python, pandas, SQL, and Machine Learning
+- Exploring AI-assisted development with Claude, Cursor, and OpenCode
+- Interested in the intersection of markets, data, and automation
+- Ask me about trading strategies, Pine Script, or data analytics
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,pandas,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,sqlite,pandas,tensorflow,git,github,vscode" alt="tech stack icons" />
 </p>
 
-**AI-Assisted Coding Tools**
+**AI-Assisted Coding**
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCode-4A90D9?style=for-the-badge&logoColor=white" />
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-4A90D9?style=for-the-badge&logoColor=white)
 
 **Trading & Analytics**
 
-<img src="https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
-<img src="https://img.shields.io/badge/Pine%20Script-1A1A1A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine%20Script-1A1A1A?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-### 🚀 Current Projects
+### Current Projects
 
-- 🔹 *Adding soon — see project ideas below!*
+- Trade Journal Cleaner & Explorer *(in progress)*
+- More projects coming as I build them — check my pinned repos!
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymithran&show_icons=true&theme=radical" alt="Ajay's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymithran&show_icons=true&theme=radical&count_private=true" alt="Ajay's GitHub stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymithran&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymithran&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://github.com/ajaymithran" target="_blank">
@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<!-- Add LinkedIn badge later:
+<!-- Add LinkedIn later:
 <a href="YOUR_LINKEDIN_URL" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -76,4 +76,4 @@
   <img src="https://komarev.com/ghpvc/?username=ajaymithran&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">Follow for more coding, AI, and trading content ❤️</p>
+<p align="center"><i>Follow for more coding, AI, and trading content</i></p>
