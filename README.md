@@ -63,9 +63,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 -->
-  <a href="https://www.instagram.com/ajayyyyy.eh/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/024/170/864/original/instagram-icon-logo-symbol-free-png.png" />
-  </a>
+  
 
 ---
 
