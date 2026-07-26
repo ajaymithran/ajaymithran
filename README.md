@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Mithran</h1>
-<h3 align="center">Data Analyst & Algo Trading Enthusiast | Turning Data into Decisions 📊📈</h3>
+<h3 align="center">Data Science & Analystics| Trading Enthusiast | Turning Data into Decisions 📊📈</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Science+%7C+Analytics+%7C+AI+Tools;Building+Algo+Trading+Strategies;Learning+Every+Day" alt="Typing SVG" />
@@ -63,6 +63,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 -->
+  <a href="https://www.instagram.com/ajayyyyy.eh/" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/024/170/864/original/instagram-icon-logo-symbol-free-png.png" />
+  </a>
 
 ---
 
