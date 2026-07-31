@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst & ML Enthusiast | Building at the Intersection of Markets & AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Machine+Learning;Algo+Trading+%7C+NAS100+Strategies;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Machine+Learning;Algo+Trading+%7C+NAS100+Strategies;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,19 +62,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaymithran&hide_border=true&bg_color=1A0000&title_color=FFD700&icon_color=FF0000&text_color=FFFFFF&count_private=false" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymithran&layout=compact&hide_border=true&bg_color=1A0000&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaymithran&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=false&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymithran&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymithran&background=1A0000&border=FFD700&stroke=FFD700&ring=FF0000&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymithran&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=CCCCCC&hide_border=true" alt="GitHub Streak" />
+</p>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=ajaymithran&color=FFD700&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ajaymithran&color=58A6FF&style=flat" alt="Profile views" />
   </a>
 </p>
 
